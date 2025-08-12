@@ -228,7 +228,7 @@ PromiseGrid: document_hash → grid_storage → decentralized_persistence
 | Function | Traditional Layer | PromiseGrid Layer | Integration Status |
 |----------|------------------|-------------------|-------------------|
 | **Document Editing** | Application (7) | Application (7) | ✅ **Implemented** |
-| **CBOR Encoding** | Presentation (6) | Presentation (6) | ✅ **Implemented** |
+| **CBOR Session Protocol** | Presentation (6) | **Session (5)** | ✅ **Implemented** |
 | **Session Management** | Session (5) | Session (5) | 🔄 **Partial** |
 | **Message Transport** | Transport (4) | Transport (4) | 📋 **Planned** |
 | **Node Addressing** | Network (3) | Network (3) | 📋 **Planned** |
