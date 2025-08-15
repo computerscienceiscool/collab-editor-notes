@@ -462,5 +462,4 @@ A company uses separate rooms for each client to keep documents and logs isolate
   * Y4: "I will prevent cross-room data leaks."
 
 ---
-
-Do you want me to also **add a section mapping these scenarios to the relevant features in your editor documentation** so each promise chain is tied back to actual implemented menu items, WASM functions, and collaboration APIs? That would make it easier to use this file as both a requirements and verification tool.
+ 
