@@ -1,6 +1,6 @@
 # Collab-Editor Protocols and PromiseGrid Integration
 ## Network Layer Mapping for Protocol Meeting
-
+ 
 This document outlines how the Collab-Editor project maps to both traditional OSI network layers and PromiseGrid protocol layers, demonstrating the integration between collaborative editing and decentralized computing protocols.
 
 ---
