@@ -1,4 +1,4 @@
-# Collaborative Editor Feature Backlog
+# Collaborative Editor & PromiseGrid Feature Backlog
 
 ## Must-Have
 
@@ -14,6 +14,11 @@
     -   IndexedDB currently keys by "room name," which risks collisions
         as usage scales; introduce unique, stable IDs (keep human names
         as metadata).
+    -   JJ: Store docs in IndexedDB in a flat namespace (no folders),
+        with UUID as the key and human-readable doc name as a label.
+    -   Add `provider.set` and `provider.get` for room name labels.
+    -   Need to manage a separate index or search mechanism for doc
+        lookup.
 -   **Basic test coverage for core UI behaviors**
     -   Add/repair Playwright tests specifically for the line-number
         toggle so regressions are caught early.
@@ -36,6 +41,9 @@
 -   **Top-of-doc date field**
     -   Add a visible date field/header in shared docs/notes for quicker
         context during sessions.
+-   **HOWTO Video for AIDDA**
+    -   Needed to make AIDDA usable.
+    -   Decision: Steve can make this, or JJ can tackle it.
 
 ------------------------------------------------------------------------
 
@@ -48,3 +56,31 @@
     -   From the editor, provide links or prefilled templates to "Create
         new issue referencing #old," since direct reopen may be blocked
         on personal repos.
+-   **Draggable panels for markdown and activity log**
+    -   UI enhancement for better layout and workspace organization.
+
+------------------------------------------------------------------------
+
+## Open Philosophical / Design Questions
+
+-   **Metaphor for Data Organization**
+    -   Should PromiseGrid use a **folder/file metaphor** or a
+        **space/room/resource metaphor**?
+    -   Who "owns" the root directory if folder/file is used
+        (centralization concern)?
+    -   Consider **Plan 9 style**: each process/user has their own
+        directory tree.
+    -   VMS precedent: `filename;version` for versioning.
+-   **Handling Versions**
+    -   File/folder metaphors don't support versions well.
+    -   Explore explicit versioning schemes (like VMS).
+-   **Metaphor Choice Implications**
+    -   Space/room/resource metaphor allows resources to include docs,
+        chats, computing services.
+    -   Virtual world metaphor is currently favored by Steve.
+    -   Punt option: make persistence/naming per-application, but risk
+        fragmentation.
+-   **Libraries & Layers**
+    -   Provide standard libraries or layers supporting chosen access
+        metaphors.
+    -   Encourage app developers to adopt consistent practices.
