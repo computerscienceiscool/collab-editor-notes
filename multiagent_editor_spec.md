@@ -1,5 +1,5 @@
 # Multi-Agent Group Programming Editor - Full Specification
-## Project Overview
+## Project Overview 
 
 **Working Name:** Multi-Agent Coding Tool (needs final name)
 
