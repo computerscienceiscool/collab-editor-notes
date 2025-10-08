@@ -4,7 +4,7 @@
 Add GitHub repository integration to the collaborative text editor, allowing users to commit documents directly to GitHub repositories without leaving the browser. This feature enables co-author attribution and supports the multi-agent coding workflow discussed in company strategy meetings.
 
 ## Business Requirements
-
+ 
 ### Primary Goals
 - Enable zero-installation Git workflow for non-technical users
 - Support co-author attribution in commits (multiple collaborators credited)
