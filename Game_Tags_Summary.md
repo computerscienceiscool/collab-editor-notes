@@ -1,0 +1,60 @@
+# GameShoutOut Tag Summary
+
+- [Stage and Amp Board: Inside Rock Hard 1977 Game](https://gameshoutout.com/2025/09/10/backstage-pass-a-look-inside-rock-hard-1977-game/): card-games, casual-games, dice-games, light-games, solo-games, storytelling-games
+- [Nuts!](https://gameshoutout.com/2024/03/03/nuts/): card-games, casual-games, family-games, light-games, quick-games, strategy-games
+- [Trickster: Champions of Time Review – Strategic Trick-Taking Across the Multiverse](https://gameshoutout.com/2024/04/02/trickster-champions-of-time/): 3-player-games, card-games, light-games, storytelling-games, strategy-games
+- [The Good the Bad and the Munchkin Review – Wild West Card Game with Monster Battles](https://gameshoutout.com/2024/09/21/2682/): 2-player-games, card-games, complex-games, cooperative-games, light-games, quick-games, strategy-games
+- [wp-sitemap.xml](https://gameshoutout.com/wp-sitemap-xml/): beginner-friendly, casual-games, game-variants, sci-fi-games, travel-games
+- [Two Decades in Malton: A Farewell to Urban Dead](https://gameshoutout.com/2025/03/05/two-decades-in-malton-a-farewell-to-urban-dead/): 2-player-games, campaign-games, historical-games, kids-games, storytelling-games
+- [Urban Dead is shutting down!](https://gameshoutout.com/2025/03/03/urban-dead-is-shutting-down/): deduction-games, kids-games, large-group-games, solo-games, storytelling-games
+- [A Potion-Maker’s Guide to the Ingredients of Quacks of Quedlinburg](https://gameshoutout.com/2025/02/28/a-potion-makers-guide-to-the-ingredients-of-quacks-of-quedlinburg/): 1-hour-games, 2-player-games, cooperative-games, quick-games, strategy-games
+- [We are going to Norwescon!](https://gameshoutout.com/2025/02/18/we-are-going-to-norwescon/): adventure-games, dice-games, sci-fi-games, storytelling-games, strategy-games
+- [Building the Ultimate Bird Haven: Exploring Wingspan’s Digital World](https://gameshoutout.com/2024/10/12/building-the-ultimate-bird-haven-exploring-wingspans-digital-world/): adventure-games, card-games, casual-games, complex-games, cooperative-games, light-games, nature-themed, solo-games, strategy-games
+- [Dominion: Digital Base Game](https://gameshoutout.com/2024/04/18/dominion-digital-base-game/): beginner-friendly, card-games, complex-games, light-games, quick-games, strategy-games
+- [Rolling in the Holidays: Gaming with Family and Friends](https://gameshoutout.com/2024/12/22/rolling-in-the-holidays-gaming-with-family-and-friends/): beginner-friendly, card-games, casual-games, cooperative-games, dice-games, educational-games, family-games, kids-games, light-games, puzzle-games, quick-games
+- [Harvesting Fun: The Joy of Growing Beans in Bohnanza](https://gameshoutout.com/2024/09/04/harvesting-fun-the-joy-of-growing-beans-in-bohnanza/): adventure-games, card-games, homeschool-games, puzzle-games, strategy-games
+- [Happy New Year!](https://gameshoutout.com/2024/12/31/happy-new-year/): 1-hour-games, 30-minute-games, educational-games, light-games, roll-and-write
+- [Mind Games and Mystery: Exploring the World of Brainwaves and The Astute Goose](https://gameshoutout.com/2024/12/19/mind-games-and-mystery-exploring-the-world-of-brainwaves-and-the-astute-goose/): card-games, casual-games, complex-games, deduction-games, dice-games, light-games, nature-themed, puzzle-games, solo-games
+- [What’s your favorite board game conference?](https://gameshoutout.com/2024/10/24/whats-your-favorite-board-game-conference/): card-games, casual-games, cooperative-games, dice-games, light-games, strategy-games
+- [Unexpected Adventures: How Double Nine Dominoes Saved the Day](https://gameshoutout.com/2024/09/06/unexpected-adventures-how-double-nine-dominoes-saved-the-day/): 1-hour-games, adventure-games, complex-games, quick-games, strategy-games
+- [Catopoly: A Purr-fect Twist on a Classic Game!](https://gameshoutout.com/2024/08/31/catopoly-a-purr-fect-twist-on-a-classic-game/): beginner-friendly, card-games, couples-games, dice-games, light-games, sci-fi-games, strategy-games
+- [Timeline Music & Cinema: Learn while having fun!](https://gameshoutout.com/2024/04/01/timeline-music-cinema/): beginner-friendly, card-games, historical-games, kids-games, storytelling-games
+- [Exploring the Colorful World of Hues and Cues](https://gameshoutout.com/2024/08/29/exploring-the-colorful-world-of-hues-and-cues/): 2-player-games, adventure-games, casual-games, complex-games, light-games
+- [Decorate the dorm at WSU](https://gameshoutout.com/decorate-the-dorm/): adult-games, game-variants, large-group-games, quick-games, sci-fi-games
+- [Living the Dream (or Not): A Day in the Life of Chez Geek](https://gameshoutout.com/2024/08/17/living-the-dream-or-not-a-day-in-the-life-of-chez-geek/): card-games, casual-games, competitive-games, nature-themed, quick-games
+- [Stack the Scoops](https://gameshoutout.com/2024/05/26/stack-the-scoops/): 1-hour-games, adult-games, card-games, casual-games, solo-games
+- [Jaipur: A Vibrant Voyage Through the Marketplaces of India](https://gameshoutout.com/2024/07/19/jaipur/): 2-player-games, card-games, cooperative-games, light-games, strategy-games
+- [Jaipur: A Vibrant Voyage Through the Marketplaces of India](https://gameshoutout.com/jaipur-a-vibrant-voyage-through-the-marketplaces-of-india/): 2-player-games, card-games, cooperative-games, light-games, strategy-games
+- [Prime Day Game Sales!](https://gameshoutout.com/2024/07/15/prime-gaming/): 4-player-games, complex-games, gateway-games, historical-games, puzzle-games
+- [Decorate the dorm for Mizzou](https://gameshoutout.com/decorate-the-dorm-2/): 6-plus-players, campaign-games, kids-games, medieval-games, nature-themed
+- [Would you like to play a game?](https://gameshoutout.com/2024/03/07/would-you-like-to-play-a-game/): adventure-games, card-games, cooperative-games, dice-games, fantasy-games, kids-games, large-group-games, party-games, puzzle-games, storytelling-games
+- [Seismic Asphalt & Paving Company tile based road building game](https://gameshoutout.com/2024/06/25/seismic-asphalt-paving-company/): 2-player-games, adventure-games, cooperative-games, light-games, strategy-games
+- [Secret Santa](https://gameshoutout.com/2024/05/29/secret-santa/): 3-player-games, large-group-games, medieval-games, party-games, sci-fi-games
+- [Voodoo Mania](https://gameshoutout.com/2024/06/05/voodoo-mania/): 3-player-games, card-games, competitive-games, light-games, quick-games
+- [Urban Dead: Choosing a class](https://gameshoutout.com/2024/05/31/ud_class/): adventure-games, cooperative-games, deck-building, quick-games, storytelling-games
+- [TGIF](https://gameshoutout.com/2024/05/24/tgif/): 2-player-games, couples-games, game-variants, party-games, solo-games
+- [Chez Geek](https://gameshoutout.com/2024/05/21/chez-geek/): card-games, casual-games, competitive-games, nature-themed, quick-games
+- [NOX](https://gameshoutout.com/2024/05/05/nox/): 2-player-games, 6-plus-players, adventure-games, card-games, complex-games
+- [The Resistance](https://gameshoutout.com/2024/05/02/the-resistance/): 2-player-games, deduction-games, kickstarter-games, mystery-games, trivia-games
+- [80s and 90s Trivia Game](https://gameshoutout.com/2024/05/04/80s-and-90s-trivia-game/): card-games, competitive-games, cooperative-games, light-games, solo-games
+- [Coup](https://gameshoutout.com/2024/05/01/coup/): 1-hour-games, 2-player-games, 6-plus-players, card-games, fantasy-games
+- [Urban Dead](https://gameshoutout.com/2024/04/19/urban-dead/): casual-games, historical-games, nature-themed, quick-games, strategy-games
+- [Dominion](https://gameshoutout.com/2024/04/17/dominion/): gateway-games, legacy-games, medieval-games, travel-games, worker-placement
+- [Eight-Minute Empire Legends](https://gameshoutout.com/2024/04/10/eight-minute-empire-legends/): 2-player-games, 30-minute-games, beginner-friendly, card-games, complex-games, storytelling-games, strategy-games
+- [Battleship Classic Game](https://gameshoutout.com/2024/04/09/battleship-classic-game/): 4-player-games, casual-games, complex-games, deduction-games, kids-games, light-games, strategy-games
+- [Pharaoh](https://gameshoutout.com/2024/03/27/pharaoh/): casual-games, couples-games, historical-games, storytelling-games, strategy-games
+- [Are you into Deck Building?](https://gameshoutout.com/2024/04/05/are-you-into-deck-building/): adventure-games, card-games, cooperative-games, light-games, strategy-games
+- [Codenames Duet](https://gameshoutout.com/2024/04/03/codenames-duet/): 2-player-games, adventure-games, card-games, cooperative-games, light-games, quick-games, sci-fi-games
+- [Machi Koro 2](https://gameshoutout.com/2024/02/11/machi-koro-2/): 2-player-games, adventure-games, card-games, cooperative-games, dice-games, family-games, light-games, quick-games, strategy-games
+- [Insider](https://gameshoutout.com/2024/03/10/insider/): 1-hour-games, 30-minute-games, card-games, deduction-games, light-games
+- [Mysterium](https://gameshoutout.com/2024/03/18/mysterium/): 2-player-games, card-games, cooperative-games, deduction-games, puzzle-games, storytelling-games
+- [Zeppelin Attack!](https://gameshoutout.com/2024/03/22/zeppelin-attack/): 2-player-games, 30-minute-games, card-games, legacy-games, nature-themed
+- [Clubs](https://gameshoutout.com/2024/03/30/clubs/): 2-player-games, adventure-games, beginner-friendly, card-games, casual-games, cooperative-games, light-games, strategy-games
+- [The Tale of Meadow Muse](https://gameshoutout.com/meadow-muse-a-tale-of-dice-destiny-and-devotion/): adventure-games, casual-games, complex-games, cooperative-games, dice-games, family-games, fantasy-games, kids-games, nature-themed, storytelling-games, strategy-games, travel-games
+- [Gaming at Emerald City Comic Con](https://gameshoutout.com/2024/03/13/gaming-at-emerald-city-comic-con/): 3-player-games, adventure-games, light-games, sci-fi-games, strategy-games
+- [The Big Idea](https://gameshoutout.com/2024/03/02/the-big-idea/): 2-player-games, 4-player-games, card-games, light-games, storytelling-games
+- [Guillotine](https://gameshoutout.com/2024/03/01/guillotine/): 3-player-games, adventure-games, beginner-friendly, card-games, casual-games, light-games, quick-games, strategy-games
+- [Blog](https://gameshoutout.com/blog/): 2-player-games, 30-minute-games, adventure-games, beginner-friendly, card-games, couples-games, deduction-games, dice-games, family-games, historical-games, light-games, puzzle-games, strategy-games
+- [The Journey Begins](https://gameshoutout.com/2018/08/30/the-journey-begins/): historical-games, print-and-play, quick-games, sci-fi-games, trivia-games
+- [Contact](https://gameshoutout.com/contact/): adventure-games, game-variants, medieval-games, sci-fi-games, storytelling-games
+- [nan](https://gameshoutout.com): beginner-friendly, family-games, homeschool-games, horror-games, sci-fi-games
