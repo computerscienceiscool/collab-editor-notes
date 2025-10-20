@@ -14,4 +14,6 @@ This flexibility means Linux can run efficiently on devices ranging from microco
 
 -------------
 
+The Go implementation formerly known as go-ipfs is now called Kubo.  This is the maintained go ipfs.
 
+----
