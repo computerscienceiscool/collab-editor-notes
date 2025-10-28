@@ -2,6 +2,8 @@ Why File Systems Matter
 --------
 Why File Systems Matter in Linux
 
+
+
 Linux stands out because it supports many file systems, each optimized for different purposes. Examples:
 - ext4 – The default on most Linux systems; stable and fast.
 - XFS – Great for handling very large files or parallel I/O.
