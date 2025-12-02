@@ -207,7 +207,7 @@ make ship
 ## Checklist
 
 ### Immediate Actions
-- [ ] Verify sitemap exists at `https://cswg.infrastructures.org/sitemap.xml`
+- [x] Verify sitemap exists at `https://cswg.infrastructures.org/sitemap.xml`
 - [ ] Check if robots.txt exists at `https://cswg.infrastructures.org/robots.txt`
 - [ ] Update `config.toml` with sitemap configuration
 - [ ] Ensure baseURL uses `https://` (not `http://`)
